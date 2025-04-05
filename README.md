@@ -1,5 +1,5 @@
 Shitty password gen that is decent
 
-.exe file should be in /distr
+.exe file is in /dist
 
 download it all trust me im bewford
